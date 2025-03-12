@@ -1,3 +1,11 @@
 .container{
     text-align: center;
 }
+
+botoes{
+    background-color:rgb(48, 231, 11) ;
+    border-radius:5px ;
+    color:white ;
+    font-weight: 500;
+    border-color:rgb(11, 26, 230) ;
+}
